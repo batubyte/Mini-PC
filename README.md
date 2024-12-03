@@ -1,4 +1,4 @@
-# Mini PC
+# Tiny PC
 
 ## Raspberry Pi Zero 2 W, tiny $15 computer
 
