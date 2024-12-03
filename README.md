@@ -31,10 +31,4 @@
 
 ---
 
-## Getting Started
-1. Download and install Raspberry Pi Imager.
-2. Flash the OS onto a microSD card.
-3. Connect the peripherals (power, HDMI, keyboard).
-4. Power on!
-
-For detailed instructions, visit the [Getting Started Guide](https://www.raspberrypi.com/documentation/computers/getting-started.html).
+## [Getting Started](https://www.raspberrypi.com/documentation/computers/getting-started.html).
