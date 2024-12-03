@@ -40,8 +40,7 @@
 11. **[Raspberry Pi Mouse](https://www.raspberrypi.com/products/raspberry-pi-mouse/):**  
     The official Raspberry Pi mouse, designed to complement the keyboard and other peripherals.
 
-12. **[Power Bank Anker PowerCore](https://www.amazon.com/Anker-Powercore-5000-mAh-Powerbank-A1109G11/dp/B01CU1EC6Y):**
-    (5V, 2.5A) Anker PowerCore 5,000mAh Portable Charger, Ultra-Compact 5K External Battery with Fast-Charging Technology, Power Bank for iPhone 15/15 Plus/15 Pro/15 Pro Max, iPad, Samsung Galaxy and More
+12. **[Power Bank Anker PowerCore](https://www.amazon.com/Anker-Powercore-5000-mAh-Powerbank-A1109G11/dp/B01CU1EC6Y):** 5V, 2.5A
 
 
 ---
