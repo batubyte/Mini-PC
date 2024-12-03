@@ -6,9 +6,7 @@
 
 ## Hardware
 1. [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/): Your tiny, tiny $15 computer
-
-3. [Raspberry Pi 12.5W Micro USB Power Supply](https://www.raspberrypi.com/products/micro-usb-power-supply/)
-  The official and recommended micro USB power supply for all micro USB-powered Raspberry Pi computers
+3. [Raspberry Pi 12.5W Micro USB Power Supply](https://www.raspberrypi.com/products/micro-usb-power-supply/): The official and recommended micro USB power supply for all micro USB-powered Raspberry Pi computers
 5. [Mini HDMI® to HDMI® Cable](https://www.raspberrypi.com/products/standard-hdmi-a-male-to-mini-hdmi-c-male-cable/): The official Raspberry Pi Mini HDMI C/Male to HDMI A/Male cable designed for use with Raspberry Pi Zero computers
 6. [Micro USB/Male to USB A/Female cable](https://www.raspberrypi.com/products/micro-usb-male-to-usb-a-female-cable/): The official Raspberry Pi Micro USB/Male to USB A/Female cable designed for use with Raspberry Pi Zero computers
 7. [USB A/Male to Micro USB/Male cable](https://www.raspberrypi.com/products/usb-a-male-to-micro-usb-male-cable/): The official Raspberry Pi USB A/Male to Micro USB/Male cable
