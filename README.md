@@ -3,4 +3,4 @@
 Raspberry Pi Zero 2 W
 Your tiny, tiny $15 computer
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/edc1b4cb-d50a-4e9b-93a8-2e1642fff317)
