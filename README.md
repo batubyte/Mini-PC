@@ -16,3 +16,25 @@
 10. [Raspberry Pi SD Cards](https://www.raspberrypi.com/products/sd-cards/): Optimise data transfer speeds and user experience on your Raspberry Pi computer with an official Raspberry Pi SD Card.
 11. [Raspberry Pi Keyboard and Hub](https://www.raspberrypi.com/products/raspberry-pi-keyboard-and-hub/): The official Raspberry Pi keyboard and hub
 12. [Raspberry Pi Mouse](https://www.raspberrypi.com/products/raspberry-pi-mouse/): The official Raspberry Pi mouse
+
+---
+
+## Specifications
+
+| **Feature**                | **Details**                          |
+|----------------------------|--------------------------------------|
+| CPU                        | 1GHz quad-core 64-bit ARM Cortex-A53 |
+| RAM                        | 512MB SDRAM                          |
+| Wireless LAN               | 2.4GHz 802.11 b/g/n                  |
+| Bluetooth                  | Bluetooth 4.2, BLE                   |
+| Dimensions                 | 65mm × 30mm                          |
+
+---
+
+## Getting Started
+1. Download and install Raspberry Pi Imager.
+2. Flash the OS onto a microSD card.
+3. Connect the peripherals (power, HDMI, keyboard).
+4. Power on!
+
+For detailed instructions, visit the [Getting Started Guide](https://www.raspberrypi.com/documentation/computers/getting-started.html).
