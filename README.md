@@ -53,4 +53,4 @@
 
 ---
 
-## [Getting Started](https://www.raspberrypi.com/documentation/computers/getting-started.html).
+## [Getting Started](https://www.raspberrypi.com/documentation/computers/getting-started.html)
