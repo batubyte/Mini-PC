@@ -1,4 +1,4 @@
-# Tiny PC
+# Tiny PC (i will create raspberry pi 5 version and delete this)
 
 ## Raspberry Pi Zero 2 W, tiny $15 computer
 
